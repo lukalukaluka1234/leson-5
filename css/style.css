@@ -1,0 +1,45 @@
+.navigethion{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 150px;
+}
+.logo{
+    vertical-align: middle;
+}
+.li-item{
+    display: inline-block;
+    padding-left: 30px;
+    
+    
+}
+.h1{
+    padding: 69px 0 68px 162px;
+}
+.c1{
+    width: 1450px;
+    margin: 0 auto;
+}
+.maim-1{
+    background-color: #FFFFFFE5;
+}
+.l{
+    display: inline-block;
+    width: 676px;
+    vertical-align: top;
+margin-left: 50px;
+}
+.r{
+display: inline-block;
+vertical-align: top;
+}
+.l2{
+    width: 339px;
+    height: 81px;
+    gap: 10px;
+    padding-top: 29px;
+    padding-right: 91px;
+    padding-bottom: 29px;
+    padding-left: 27px;
+    background-color: #ECECEC;
+        
+}
